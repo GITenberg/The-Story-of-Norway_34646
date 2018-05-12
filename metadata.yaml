@@ -1,0 +1,28 @@
+_repo: The-Story-of-Norway_34646
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34646-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Boyesen, Hjalmar Hjorth
+    alias: Boyesen, Hjalmar H.
+    birthdate: 1848
+    deathdate: 1895
+    gutenberg_agent_id: '170'
+    url: http://www.gutenberg.org/2009/agents/170
+description: ''
+gutenberg_issued: '2010-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34646'
+  lccn: 04034180
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DL'
+- !lcsh 'Norway -- History'
+title: The Story of Norway
+url: http://www.gutenberg.org/ebooks/34646
